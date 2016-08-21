@@ -24,3 +24,6 @@ group :benchmarks do
   gem 'benchmark-ips'
   gem 'virtus'
 end
+
+gem 'dry-types', github: 'dry-rb/dry-types'
+gem 'dry-struct', github: 'dry-rb/dry-struct'

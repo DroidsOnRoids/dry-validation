@@ -1,5 +1,6 @@
 require 'dry/logic/predicates'
 require 'dry/types/constraints'
+require 'dry/struct'
 
 require 'dry/validation/predicate_registry'
 require 'dry/validation/schema_compiler'
